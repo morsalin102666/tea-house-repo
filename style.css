@@ -4,3 +4,8 @@
     box-sizing: border-box;
     font-family: 'Manrope', sans-serif;
 }
+.card-ratin{
+    position: relative;
+    margin-left: 110px;
+    margin-top: -120px;
+}
